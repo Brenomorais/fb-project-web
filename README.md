@@ -1,4 +1,4 @@
-# Introduction to Firebase
+# Workshop Introduction to Firebase
 
 Project application web.
 
